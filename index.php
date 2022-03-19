@@ -23,6 +23,6 @@
   <h1 align="center" >Hello! You see my test page.</h1>
   <p align="center" >Check your time here \/</p>
 <button align="center" id="time" onclick="alert(new Date())">Time</button>
-<p align="center" ><? date_defeault_timezone_set("Europe/Moscow"); echo date("h:i:s"); ?></p>
+<p align="center" ><? date_defaault_timezone_set("Europe/Moscow"); echo date("h:i:s"); ?></p>
 </body>
 </html>
