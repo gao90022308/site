@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
+    <meta http-equiv="Refresh" content="1" charset="utf-8" />
   
     <title>Chat</title>
     
