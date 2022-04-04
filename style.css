@@ -1,0 +1,20 @@
+body {
+  background-color: #363636;
+  text-align: center;
+  color: white;
+  
+}
+input {
+  background-color: white;
+  border-radius: 10px;
+  font-size: 30px;
+}
+.submitbtn {
+  background-color: orange;
+}
+.messages {
+  background-color: black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
